@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='smpconsole',
-    version='1.0.1',
+    version='1.0.2',
     author='khiemndd',
     description='best console experience',
     long_description=open('README.md').read(),
