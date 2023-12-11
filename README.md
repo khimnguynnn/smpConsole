@@ -12,4 +12,4 @@ pip install smpconsole
 
 # Usage
 ### Demo
-![Demo](demo.png)
+![demo](https://raw.githubusercontent.com/khimnguynnn/smpConsole/master/demo.png)

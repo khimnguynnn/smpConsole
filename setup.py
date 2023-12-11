@@ -8,6 +8,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     packages=find_packages(),
+    url = 'https://github.com/khimnguynnn/smpConsole',
     install_requires=[
         'colorama'
     ],
